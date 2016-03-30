@@ -1,0 +1,23 @@
+
+        clr2 = RGB(255 - cadd3, 255, 0) 'yellow to green
+        lPic.Line ((X + (frm2) + lFase) Mod frmscw, 0)-((X + (frm2) + lFase) Mod frmscw, FrmSh), clr2
+
+
+
+
+
+
+        clr3 = RGB(0, 255, cadd3) 'green to cyan
+        lPic.Line ((X + (frm2 * 2) + lFase) Mod frmscw, 0)-((X + (frm2 * 2) + lFase) Mod frmscw, FrmSh), clr3
+
+        clr4 = RGB(0, 255 - cadd3, 255) 'cyan to blue
+        lPic.Line ((X + (frm2 * 3) + lFase) Mod frmscw, 0)-((X + (frm2 * 3) + lFase) Mod frmscw, FrmSh), clr4
+
+        clr5 = RGB(cadd3, 0, 255) 'blue to magenta
+        lPic.Line ((X + (frm2 * 4) + lFase) Mod frmscw, 0)-((X + (frm2 * 4) + lFase) Mod frmscw, FrmSh), clr5
+
+        clr6 = RGB(255, 0, 255 - cadd3) 'magenta to red
+        lPic.Line ((X + (frm2 * 5) + lFase) Mod frmscw, 0)-((X + (frm2 * 5) + lFase) Mod frmscw, FrmSh), clr6
+
+        cadd2 = cadd2 + cadd 'accumulate
+        If cadd2 > 255 Then cadd2 = 255

@@ -1,0 +1,4 @@
+﻿  ddcmonitors.cpp
+ddcmonitors.obj : error LNK2028: unresolved token (0A00014D) "extern "C" int __stdcall EnumDisplayMonitors(struct HDC__ *,struct tagRECT const *,int (__stdcall*)(struct HMONITOR__ *,struct HDC__ *,struct tagRECT *,long),long)" (?EnumDisplayMonitors@@$$J216YGHPAUHDC__@@PBUtagRECT@@P6GHPAUHMONITOR__@@0PAU2@J@ZJ@Z) referenced in function "public: __thiscall ddcmonitors::ddcmonitors(void)" (??0ddcmonitors@@$$FQAE@XZ)
+ddcmonitors.obj : error LNK2019: unresolved external symbol "extern "C" int __stdcall EnumDisplayMonitors(struct HDC__ *,struct tagRECT const *,int (__stdcall*)(struct HMONITOR__ *,struct HDC__ *,struct tagRECT *,long),long)" (?EnumDisplayMonitors@@$$J216YGHPAUHDC__@@PBUtagRECT@@P6GHPAUHMONITOR__@@0PAU2@J@ZJ@Z) referenced in function "public: __thiscall ddcmonitors::ddcmonitors(void)" (??0ddcmonitors@@$$FQAE@XZ)
+D:\Documents\Visual Studio 2013\Projects\cppform1\Debug\cppform1.exe : fatal error LNK1120: 2 unresolved externals
