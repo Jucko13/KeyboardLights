@@ -1,0 +1,10 @@
+frmMain = 52, 52, 1451, 577, Z, 26, 26, 1403, 551, C
+libusb = 208, 208, 1633, 633, 
+AudioPlugin = 78, 78, 1570, 503, 
+Subclassing = 52, 52, 1477, 477, 
+Timing = 130, 130, 1555, 555, 
+frmInfo = 0, 0, 0, 0, C, 0, 0, 1425, 425, C
+MainModule = 0, 0, 0, 0, C
+clsMain = 0, 0, 0, 0, C
+uColor = 0, 0, 0, 0, C, 26, 26, 1451, 451, C
+DisplaySettings = 26, 26, 1451, 451, 

@@ -1,0 +1,17 @@
+[History]
+1=#P0#=mb	#P1#=cmdTurnScreenOff_Click	#P2#=Project1/frmMain/cmdTurnScreenOff_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151201165218	#P7#=0	#P8#=2	.
+2=#P0#=mb	#P1#=LowLevelKeyboardProc	#P2#=Project1/Subclassing/LowLevelKeyboardProc	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151201165135	#P7#=0	#P8#=58	.
+3=#P0#=mb	#P1#=Paint_Statusbar	#P2#=Project1/frmMain/Paint_Statusbar	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151030163629	#P7#=0	#P8#=26	.
+4=#P0#=mb	#P1#=Paint_Keyboard	#P2#=Project1/frmMain/Paint_Keyboard	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151030163600	#P7#=0	#P8#=71	.
+5=#P0#=mb	#P1#=slp	#P2#=Project1/frmMain/slp	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151030163541	#P7#=0	#P8#=0	.
+6=#P0#=mb	#P1#=cmdSolidEdit_Click	#P2#=Project1/frmMain/cmdSolidEdit_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151030163500	#P7#=0	#P8#=26	.
+7=#P0#=mb	#P1#=cmdSolidAdd_Click	#P2#=Project1/frmMain/cmdSolidAdd_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151030163441	#P7#=0	#P8#=22	.
+8=#P0#=mb	#P1#=ShowForm	#P2#=Project1/frmMain/ShowForm	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151030163345	#P7#=0	#P8#=8	.
+9=#P0#=mb	#P1#=SendData	#P2#=Project1/frmMain/SendData	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151030163315	#P7#=0	#P8#=26	.
+10=#P0#=mb	#P1#=SetLed	#P2#=Project1/frmMain/SetLed	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151030162236	#P7#=0	#P8#=15	.
+11=#P0#=mb	#P1#=MonitorEnumProc	#P2#=Project1/DisplaySettings/MonitorEnumProc	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151018014120	#P7#=0	#P8#=24	.
+12=#P0#=mb	#P1#=Init_Volume_Control	#P2#=Project1/frmMain/Init_Volume_Control	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151018013724	#P7#=0	#P8#=10	.
+13=#P0#=mb	#P1#=OpenMixer	#P2#=Project1/AudioPlugin/OpenMixer	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151018013147	#P7#=0	#P8#=0	.
+14=#P0#=mb	#P1#=tmrVolume_Timer	#P2#=Project1/frmMain/tmrVolume_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151018013103	#P7#=0	#P8#=7	.
+15=#P0#=mb	#P1#=cmdMonitorBrightnessSet_Click	#P2#=Project1/frmMain/cmdMonitorBrightnessSet_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20151018012411	#P7#=0	#P8#=1	.
+16=#P0#=mb	#P1#=Init_Keyboard_Connection	#P2#=Project1/frmMain/Init_Keyboard_Connection	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20151017165206	#P7#=0	#P8#=27	.

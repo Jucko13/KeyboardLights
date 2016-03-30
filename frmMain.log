@@ -1,0 +1,8 @@
+Line 149: Class NTService.NTService of control NTService was not a loaded control class.
+Line 152: The property name _Version in NTService is invalid.
+Line 153: The property name _ExtentX in NTService is invalid.
+Line 154: The property name _ExtentY in NTService is invalid.
+Line 155: The property name _StockProps in NTService is invalid.
+Line 156: The property name DisplayName in NTService is invalid.
+Line 157: The property name ServiceName in NTService is invalid.
+Line 158: The property name StartMode in NTService is invalid.
